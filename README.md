@@ -68,8 +68,13 @@ JWT
 
 # Summary of Features:
 
+
 Registration of new users
+
 Authentication of registered users
+
 Secure storage of encrypted passwords
+
 Verification of password, name, and email extension
+
 Use of JWT tokens for authentication and security of system functionalities.
