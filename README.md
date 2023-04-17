@@ -36,3 +36,40 @@ Armazenamento seguro de senhas criptografadas
 Verificação de extensão de senha, nome e email
 
 Utilização de tokens JWT para autenticação e segurança das funcionalidades do sistema.
+
+
+
+# Registration and Login - Backend
+
+The Registration and Login system is a software that uses backend technologies to manage user registration and authentication. It is built using NodeJS and Express as a web development platform and MongoDB as a NoSQL database, with the Mongoose library to facilitate database management.
+
+The software uses Bcrypt encryption to securely store user passwords in the database. Additionally, it uses JWT (JSON Web Token) authentication to ensure that only authenticated users can access system functionality.
+
+The software also includes password, name, and email extension verification with the '@hapi/joi' library, which ensures that user-provided input data is in the correct format.
+
+This file contains only the backend code, with registration, login, authentication, and security logic. I am developing the complete system with NextJS/ReactJS - a system that will also include a password update function, in addition to the interface.
+
+
+#Technologies Used:
+
+NodeJS
+
+Express
+
+MongoDB
+
+Mongoose
+
+Bcrypt
+
+JWT
+
+@hapi/joi
+
+#Summary of Features:
+
+Registration of new users
+Authentication of registered users
+Secure storage of encrypted passwords
+Verification of password, name, and email extension
+Use of JWT tokens for authentication and security of system functionalities.
