@@ -29,4 +29,4 @@ const LoginValidate = (data) => {
 }
 
 module.exports.LoginValidate = LoginValidate;
-module.exports.registerValidate = RegisterValidate;
+module.exports.RegisterValidate = RegisterValidate;
