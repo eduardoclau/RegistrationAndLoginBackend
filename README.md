@@ -22,7 +22,7 @@ Bcrypt
 
 JWT
 
-'@hapi/joi'
+@hapi/joi
 
 
 # Resumo das Funcionalidades:
