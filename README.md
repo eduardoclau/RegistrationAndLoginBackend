@@ -9,18 +9,28 @@ O software também inclui uma verificação da extensão de senha, nome e email 
 # Tecnologias Utilizadas:
 
 NodeJS
+
 Express
+
 MongoDB
+
 Mongoose
+
 Bcrypt
+
 JWT
+
 '@hapi/joi'
 
 
 # Resumo das Funcionalidades:
 
 Cadastro de novos usuários
+
 Autenticação de usuários registrados
+
 Armazenamento seguro de senhas criptografadas
+
 Verificação de extensão de senha, nome e email
+
 Utilização de tokens JWT para autenticação e segurança das funcionalidades do sistema.
