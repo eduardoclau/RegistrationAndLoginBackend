@@ -50,7 +50,7 @@ The software also includes password, name, and email extension verification with
 This file contains only the backend code, with registration, login, authentication, and security logic. I am developing the complete system with NextJS/ReactJS - a system that will also include a password update function, in addition to the interface.
 
 
-#Technologies Used:
+# Technologies Used:
 
 NodeJS
 
@@ -66,7 +66,7 @@ JWT
 
 @hapi/joi
 
-#Summary of Features:
+# Summary of Features:
 
 Registration of new users
 Authentication of registered users
