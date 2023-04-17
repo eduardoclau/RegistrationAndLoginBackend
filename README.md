@@ -1,10 +1,12 @@
-# RegistrationandLoginBackend
+# Registration and Login - Backend
 
 O Sistema de Registro e Login é um software que utiliza tecnologias de backend para gerenciar o cadastro e autenticação de usuários. Ele é construído utilizando NodeJS e Express como plataforma de desenvolvimento web e MongoDB como banco de dados NoSQL, com a biblioteca Mongoose para facilitar o gerenciamento do banco de dados.
 
 O software utiliza criptografia Bcrypt para armazenar senhas de usuários de forma segura no banco de dados. Além disso, ele utiliza autenticação JWT (JSON Web Token) para garantir que somente usuários autenticados possam acessar as funcionalidades do sistema.
 
 O software também inclui uma verificação da extensão de senha, nome e email com a biblioteca '@hapi/joi', que garante que os dados de entrada fornecidos pelos usuários estejam no formato correto.
+
+Neste arquivo, há somente o código backend, com a lógica de registro, login, autenticação e segurança. Estou desenvolvendo o sistema completo com NextJS/ReactJS - sistema que contará, também, além da interface, função de atualização de senha.
 
 # Tecnologias Utilizadas:
 
